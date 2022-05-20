@@ -63,5 +63,9 @@ public class prog2{
         System.out.println(d1.name + " and " + d2.name + " are " + dogs.length + " dogs ! ");
 
         System.out.println("Added a new line for Git");
+
+        System.out.println("Added another line for Git");
+
+        
     }
 }
