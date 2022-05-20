@@ -59,6 +59,9 @@ public class prog2{
             j--;
         }
         System.out.println(dogs[0].name + " and " + dogs[1].name + " are " + dogs.length + " dogs ! ");
+        
         System.out.println(d1.name + " and " + d2.name + " are " + dogs.length + " dogs ! ");
+
+        System.out.println("Added a new line for Git");
     }
 }
